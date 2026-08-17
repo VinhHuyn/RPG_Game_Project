@@ -1,0 +1,7 @@
+# Python itself cannot be installed from requirements.txt.
+# Install Python 3.12.13 first, then run:
+#   python -m pip install -r requirements.txt
+# Recommended runtime for long-term compatibility: Python 3.12.13
+
+pygame==2.6.1
+pytest==9.1.1

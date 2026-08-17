@@ -1,0 +1,33 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+ENV/
+
+# Local/editor/system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Generated/debug artifacts
+monster_ids_labeled.png
+
+# Pygame/runtime saves
+011200
+*.save
+*.sav
+*.pkl
